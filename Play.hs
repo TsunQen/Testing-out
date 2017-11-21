@@ -6,7 +6,6 @@
     --                  else x*2
 
 hejIgen a t = a * t
-provarigen a = a
 areaTriangel b h = (b*h)/2
 areaCirkel r = r*r*pi
 let t = "Längsta ordet är:"
