@@ -5,7 +5,8 @@
   --                    then x
     --                  else x*2
 
-areaFyrkant a b = a * b
+hejIgen a t = a * t
+provarigen a = a
 areaTriangel b h = (b*h)/2
 areaCirkel r = r*r*pi
 let t = "Längsta ordet är:"
