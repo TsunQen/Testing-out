@@ -11,3 +11,4 @@ areaCirkel r = r*r*pi
 let t = "Längsta ordet är:"
 longestWord a b = if length a > length b then return t ++ a else if length a < length b then return t ++ b else return "Båda är lika långa!"
 hej v d = v*d*v
+provar d a = d + v
